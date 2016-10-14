@@ -1,4 +1,4 @@
-@charset "gb2312";
+@charset "UTF-8";
 /* media css Document */
 @media screen and (max-width:823px) {
 .ibody { background: url(../images/ms8.png) top right no-repeat #FFF; width: 90%; margin: auto; box-shadow: 0px 2px 5px #666; }
